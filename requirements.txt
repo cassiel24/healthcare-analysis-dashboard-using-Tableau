@@ -1,0 +1,8 @@
+# Tableau requirement (manual install)
+Tableau Desktop or Tableau Public
+
+# Optional: if preprocessing in Python
+pandas
+numpy
+matplotlib
+seaborn
